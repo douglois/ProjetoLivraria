@@ -1,0 +1,30 @@
+package Faculdade07112019;
+import java.util.Date;
+import java.text.SimpleDateFormat;
+
+public abstract class Produto 
+
+{
+	
+	private String titulo;
+	private Date dtlancamento;
+	
+	public String getTitulo() {
+		return titulo;
+	}
+	public void setTitulo(String titulo) {
+		this.titulo = titulo;
+	}
+	public Date getDtlancamento() {
+		return dtlancamento;
+	}
+	public void setDtlancamento(Date dtlancamento) {
+		this.dtlancamento = dtlancamento;
+	}
+	
+	public Produto (String titulo, Date dtlancamento)
+	{
+		this.dtlancamento = dtlancamento;
+		this.titulo = titulo;
+	}
+}
