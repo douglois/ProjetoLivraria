@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/NdKfREhBKvnnIFGTKgkqG6HRxIZgMdGYVyUex6nE/bIDAQOIBZw8rVTM+Hcu/ChFw4rVljjltIQoihqIfITA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dlois\\Desktop\\Estudos\\C#_Forms\\PetAsService\\PetAsService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dlois\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
